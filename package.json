@@ -1,0 +1,20 @@
+{
+  "name": "ug-pi-wetty",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specifiedyet \" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlenkeit/ug-pi-wetty.git"
+  },
+  "keywords": [],
+  "author": "Maximilian Lenkeit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlenkeit/ug-pi-wetty/issues"
+  },
+  "homepage": "https://github.com/mlenkeit/ug-pi-wetty#readme"
+}
