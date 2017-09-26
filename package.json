@@ -4,6 +4,7 @@
   "description": "",
   "private": true,
   "scripts": {
+    "start": "node node_modules/wetty/app.js -p $PORT",
     "test": "echo \"Error: no test specifiedyet \" && exit 0"
   },
   "repository": {
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/mlenkeit/ug-pi-wetty/issues"
   },
-  "homepage": "https://github.com/mlenkeit/ug-pi-wetty#readme"
+  "homepage": "https://github.com/mlenkeit/ug-pi-wetty#readme",
+  "dependencies": {
+    "wetty": "git+https://github.com/mlenkeit/wetty.git"
+  }
 }
